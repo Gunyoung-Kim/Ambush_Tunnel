@@ -1,0 +1,8 @@
+#room_table {
+  border: 1px solid black;
+  margin-bottom: 40px;
+}
+
+.room_table_head {
+  border: 1px solid black;
+}

@@ -1,0 +1,43 @@
+body {
+  background-color: "";
+}
+
+#main_label {
+    font-size: 5vw;
+    color: black;
+    text-align: center;
+}
+
+#login_input {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#input_label {
+  font-size: 100%;
+  padding-top: 30px;
+  margin-right: 10px;
+}
+
+#name_input {
+  width: 100%;
+  height: 100%;
+}
+
+#connect_btn {
+  margin-left: 30px;
+  width: 100%;
+  height: 100%;
+}
+
+#mark {
+  text-align: center;
+  font-size: 1vw;
+}
+
+@media (max-width:800px) {
+
+}
